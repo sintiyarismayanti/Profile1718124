@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">New Aplication</string>
+    <string name="kampus">National Institute of Technology Malang </string>
+    <string name="follow">Follow me </string>
+    <string name="lang"> Change Language</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Baru</string>
+    <string name="kampus">Institut Teknologi Nasional Malang </string>
+    <string name="follow"> Ikuti Saya </string>
+    <string name="lang"> Ubah Bahasa </string>
+</resources>
